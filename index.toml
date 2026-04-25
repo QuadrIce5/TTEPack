@@ -5442,7 +5442,7 @@ metafile = true
 
 [[files]]
 file = "mods/tte_event-1.0.0.jar"
-hash = "378334ff86bcfcef12d3519400bff35efdfc8e4ef3bdbba1bb8317bef9e9a837"
+hash = "e8617367e31e5da96aac678d2e5129dd70a3ecffcb4491e3db752b74799708ce"
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
