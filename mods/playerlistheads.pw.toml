@@ -1,0 +1,13 @@
+name = "PlayerListHeads"
+filename = "PlayerListHeads-2.0-1.20-1.21.8.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BYWNSBG3/versions/pWg5aHYC/PlayerListHeads-2.0-1.20-1.21.8.jar"
+hash-format = "sha512"
+hash = "8a7a43228d4712eec366fa456a82efe2d47f77ab3cb0f81f88d7337c9c78ce185903322064fd6abb7b980911281e01f8af69990591a4dbb83d2937c49aef8be4"
+
+[update]
+[update.modrinth]
+mod-id = "BYWNSBG3"
+version = "pWg5aHYC"

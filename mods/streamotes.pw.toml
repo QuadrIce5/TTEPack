@@ -1,0 +1,13 @@
+name = "Streamotes: Streamer Emotes"
+filename = "streamotes-1.2.14+1.21.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IAJz3K09/versions/8LyiOGxw/streamotes-1.2.14%2B1.21.11.jar"
+hash-format = "sha512"
+hash = "5af72ee26badfd2bf232e15761155d32e4736754bcf920e9ab8507bb8dc712466f5845bed4f433d5414dda17b267b68fe8ba5db84492c549b03f4a5bcc24c779"
+
+[update]
+[update.modrinth]
+mod-id = "IAJz3K09"
+version = "8LyiOGxw"

@@ -1,0 +1,13 @@
+name = "Online Emotes"
+filename = "online-emotes-3.4.8+mc1.21.11-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Dc4g4seU/versions/s7bWrbeV/online-emotes-3.4.8%2Bmc1.21.11-fabric.jar"
+hash-format = "sha512"
+hash = "2905b6405ca55b87c7be970b54b8bb23011d42c82af8a1a1f3fe5f3c2382c89b953717803ef82e80a6f4631be7b4506aeea8edb01f5be7168770cf35a409fb5b"
+
+[update]
+[update.modrinth]
+mod-id = "Dc4g4seU"
+version = "s7bWrbeV"

@@ -1,0 +1,13 @@
+name = "[PatPat] Bonk Bonk Animation"
+filename = "Bonk Bonk Animation.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/y3Tu7AP3/versions/CjAqqjbw/Bonk%20Bonk%20Animation.zip"
+hash-format = "sha512"
+hash = "1e56642ef57f8d1aed65955e16490d01f87bca3ac0c0bb182b2ef4a267cb4a4a51cb8f9d7152a92b4015552a7441eddab905df63351436fa1af5176fd01d1e0e"
+
+[update]
+[update.modrinth]
+mod-id = "y3Tu7AP3"
+version = "CjAqqjbw"
