@@ -1,0 +1,9 @@
+{
+  "gridSize": "MEDIUM",
+  "thumbnailSize": "SMALL",
+  "autoRefresh": true,
+  "fadeAnimations": true,
+  "showMetadata": true,
+  "refreshSpeed": "NORMAL",
+  "favorites": []
+}

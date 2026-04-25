@@ -1,0 +1,11 @@
+{
+  "presets": {
+    "example": {
+      "x": 0,
+      "z": 0,
+      "riddle": "Растёт в недрах земли, но светится как звезда. Что это?",
+      "quota_blocks": ["minecraft:amethyst_shard", "minecraft:amethyst_block"],
+      "quota_amount": 64
+    }
+  }
+}
