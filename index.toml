@@ -5134,7 +5134,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "037350c2aa47c78e4223154291da5d6dd51e515015d78741f64d3d7b71e25111"
+hash = "30c92a26acf7258c7a1d58184d1490ddd141883858518b106f319b737113992c"
 metafile = true
 
 [[files]]
@@ -5382,7 +5382,7 @@ metafile = true
 
 [[files]]
 file = "mods/replaymod.pw.toml"
-hash = "48444b0f3b2ae4ad9148cc5d22c99774413deda9a77e9ccfc1cfa1267d6eaa05"
+hash = "c9006d4242f1fe4d939a2fc3155612a8294354709767ac2a7cf4b1a19202370f"
 metafile = true
 
 [[files]]
